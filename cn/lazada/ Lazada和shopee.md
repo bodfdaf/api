@@ -1,5 +1,11 @@
 如何采集来赞达Lazada虾皮shopee各区域商品详情页面数据
 
+# Customized requirements:
+If you have data requirements, you can contact us for customized development. We are a professional team.
+<br>
+Telegram: @bodapi <br>
+Wechat: xg98126635 <br>
+
 以虾皮shopee根据ID取商品详情 API 返回值说明为例
 
 key	String	是	调用key（必须以GET方式拼接在URL中）
